@@ -1,6 +1,6 @@
 ### *Tidy* Human Activity Recognition Using Smartphones Dataset (Version 1.0)
 ==================================================================
-This is a script to create a tidy version (see definition in CODEBOOK.md) of data from Smartlab. The script was written by Daniel Maurath as a project for the course Getting And Cleaning Data.
+This is a script to create a tidy version (see definition in CODEBOOK.md) of data from Smartlab. The script was written by Aarohi Surya as a project for the course Getting And Cleaning Data.
 
 Data was collected from the accelerometers in Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
